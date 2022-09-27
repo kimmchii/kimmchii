@@ -11,7 +11,7 @@ The subjects that I'm quite comfort with would be something about backend or ana
   * Pulse Oximeter
     > * Use the sensor to connect with MCU and display a result on the OLED screen
   * Wordpress Docker-Compose
-    > * Link a volme and container together for addons development purpose\
+    > * Link a volme and container together for addons development purpose
   
   
 
@@ -19,7 +19,7 @@ The subjects that I'm quite comfort with would be something about backend or ana
 
 
 
-\__________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________
 
 ### COMFORT WITH THESE I GUESS?
 __________________________________________________________________________________________________________________________________________
