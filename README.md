@@ -16,8 +16,7 @@ I also involved with some tasks. Here it is
 COMFORT WITH THESE I GUESS?
 ==========================================================================================================================================
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmchii&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimmchii&theme=radical&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmchii&theme=radical&layout=compact" />
 <!--
 **kimmchii/kimmchii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
