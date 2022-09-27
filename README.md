@@ -3,7 +3,7 @@
 🌱 I’m currently learning many new things and , sometimes, I found out that those thing I won't ( HOPEFULLY ) use in the future anyway LOL. 
 The subjects that I'm quite comfort with would be something about backend or analyzation that is required the understanding in such topics. 
 
-I also involved with some tasks. Here it is                                                <img align="left" src="img/mini_mudrock.gif">
+**I also involved with some tasks. Here it is**                                                <img align="left" src="img/mini_mudrock.gif">
   * FHIRxP 
     * Creating an API to connect HOSXP and FHIR
   * FHIR sushi
@@ -12,6 +12,8 @@ I also involved with some tasks. Here it is                                     
     * Use the sensor to connect with MCU and display a result on the OLED screen
   * Wordpress Docker-Compose
     * Link a volme and container together for addons development purpose
+
+
 
 COMFORT WITH THESE I GUESS?
 ==========================================================================================================================================
