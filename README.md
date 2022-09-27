@@ -23,9 +23,9 @@ ________________________________________________________________________________
 
 ### COMFORT WITH THESE I GUESS?
 __________________________________________________________________________________________________________________________________________
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmchii&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmchii&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmchii&theme=radical&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmchii&theme=swift&layout=compact" />
 
 <!--
 **kimmchii/kimmchii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
