@@ -5,13 +5,13 @@ The subjects that I'm quite comfort with would be something about backend or ana
 
 **I also involved with some tasks. Here it is**                                                <img align="left" src="img/mini_mudrock.gif">
   * FHIRxP 
-    * Creating an API to connect HOSXP and FHIR
+    > * Creating an API to connect HOSXP and FHIR
   * FHIR sushi
-    * Using fsh to generate custom profiles for FHIE resoures                                  
+    > * Using fsh to generate custom profiles for FHIE resoures                                  
   * Pulse Oximeter
-    * Use the sensor to connect with MCU and display a result on the OLED screen
+    > * Use the sensor to connect with MCU and display a result on the OLED screen
   * Wordpress Docker-Compose
-    * Link a volme and container together for addons development purpose
+    > * Link a volme and container together for addons development purpose\
   
   
 
@@ -19,7 +19,7 @@ The subjects that I'm quite comfort with would be something about backend or ana
 
 
 
-__________________________________________________________________________________________________________________________________________
+\__________________________________________________________________________________________________________________________________________
 
 ### COMFORT WITH THESE I GUESS?
 __________________________________________________________________________________________________________________________________________
