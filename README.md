@@ -3,7 +3,7 @@
 🌱 I’m currently learning many new things and , sometimes, I found out that those thing I won't ( HOPEFULLY ) use in the future anyway LOL. 
 The subjects that I'm quite comfort with would be something about backend or analyzation that is required the understanding in such topics. 
 
-**I also involved with some tasks. Here it is**                                               <img align="right" src="img/mini_mudrock.gif">
+**I also involved with some tasks. Here it is**                                               [<img align="right" src="img/mini_mudrock.gif">](https://twitter.com/huhuhu13422/status/1482206649939292160?t=jj6isJzD7m4lpiAtTb2tjA&s=19}
   * FHIRxP                                                                                         
     * Creating an API to connect HOSXP and FHIR
   * FHIR sushi
