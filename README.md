@@ -3,11 +3,11 @@
 🌱 I’m currently learning many new things and , sometimes, I found out that those thing I won't ( HOPEFULLY ) use in the future anyway LOL. 
 The subjects that I'm quite comfort with would be something about backend or analyzation that is required the understanding in such topics. 
 
-I also involved with some tasks. Here it is 
+I also involved with some tasks. Here it is                                                <img align="right" src="img/mudrock.gif">
   * FHIRxP 
     * Creating an API to connect HOSXP and FHIR
   * FHIR sushi
-    * Using fsh to generate custom profiles for FHIE resoures
+    * Using fsh to generate custom profiles for FHIE resoures                                  
   * Pulse Oximeter
     * Use the sensor to connect with MCU and display a result on the OLED screen
   * Wordpress Docker-Compose
