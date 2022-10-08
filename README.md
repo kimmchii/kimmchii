@@ -7,6 +7,7 @@ The subjects that I'm quite comfort with would be something about backend or ana
 <!--
 [<img align="right" src="img/mini_mudrock.gif">](https://twitter.com/huhuhu13422/status/1482206649939292160?t=jj6isJzD7m4lpiAtTb2tjA&s=19)
 -->
+[<img align="right" src="img/siren_skadi.gif">](https://twitter.com/huhuhu13422/status/1482206649939292160?t=jj6isJzD7m4lpiAtTb2tjA&s=19)
   * FHIRxP                                                                                         
     * Creating an API to connect HOSXP and FHIR
   * FHIR sushi
